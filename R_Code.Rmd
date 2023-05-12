@@ -523,26 +523,6 @@ plot(TukeyHSD(danceaov2), las = 1)
 ```
 
 
-## Scatterplots
-## Normal Quantile Plots
-## Residual Plots
-## Histogram
-
-# Basic Tests
-## T-Test
-## Correlation Test
-## Bootstrapped Test
-
-# Permutation Test
-
-# Multiple Regressions
-## Include Residual Plots
-
-# One more 
-
-# Analysis
-# Conclussion/Summary
-
 
 #
 
